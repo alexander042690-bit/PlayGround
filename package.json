@@ -1,0 +1,29 @@
+{
+  "name": "horizon-6-costa-del-sol",
+  "version": "1.0.0",
+  "description": "<!-- omgithub:readme:start --> ## 🚀 Build, play, and remix with OMGithub",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander042690-bit/PlayGround.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexander042690-bit/PlayGround/issues"
+  },
+  "homepage": "https://github.com/alexander042690-bit/PlayGround#readme",
+  "dependencies": {
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.2"
+  },
+  "private": true
+}
